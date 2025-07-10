@@ -1,6 +1,6 @@
 # -InboxMind-AI-Powered-Email-Classifier-Responder
 
-# InboxMind 🧠📬
+# InboxMind 📬
 
 InboxMind is an AI-powered utility that fetches, classifies, and drafts replies to your emails using GPT-4.
 
